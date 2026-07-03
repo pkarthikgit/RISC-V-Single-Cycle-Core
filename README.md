@@ -66,4 +66,4 @@ Instruction Type  Description
 ## 📂 Language & Tools
 
 - **Language:** Verilog HDL
-- **Vivado
+- Vivado
